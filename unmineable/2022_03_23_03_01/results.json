@@ -1,0 +1,1612 @@
+{
+    "data": [
+        {
+            "name": "Baby Doge",
+            "symbol": "BABYDOGE",
+            "price": 2.13708868651e-07,
+            "chains": [
+                {
+                    "name": "Binance Smart Chain",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 495.06181786308053,
+            "price_per_month": 14851.854535892417,
+            "coins_per_day": 2316524442.75276,
+            "coins_per_month": 69495733282.5828
+        },
+        {
+            "name": "Crypto.com Coin",
+            "symbol": "CRO",
+            "price": 32.02700125477922,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 489.0123951898949,
+            "price_per_month": 14670.37185954009,
+            "coins_per_day": 15.26875374,
+            "coins_per_month": 458.06261232
+        },
+        {
+            "name": "Fantom",
+            "symbol": "FTM",
+            "price": 98.52176930703897,
+            "chains": [
+                {
+                    "name": "Binance Smart Chain",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                },
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                },
+                {
+                    "name": "Fantom",
+                    "network": "FTM",
+                    "token_standard": "Fantom",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.8633096254314,
+            "price_per_month": 15055.89930255599,
+            "coins_per_day": 5.09393318,
+            "coins_per_month": 152.81799554
+        },
+        {
+            "name": "SafeMoon (V2)",
+            "symbol": "SFM",
+            "price": 0.0791477244467786,
+            "chains": [
+                {
+                    "name": "Binance Smart Chain",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 495.0161447089152,
+            "price_per_month": 14850.484341288826,
+            "coins_per_day": 6254.33198704,
+            "coins_per_month": 187629.95961147
+        },
+        {
+            "name": "SHIBA INU",
+            "symbol": "SHIB",
+            "price": 0.001812890299614754,
+            "chains": [
+                {
+                    "name": "Binance Smart Chain",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                },
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                },
+                {
+                    "name": "Kucoin Community Chain",
+                    "network": "KCC",
+                    "token_standard": "KRC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 503.73946082910817,
+            "price_per_month": 15112.18382487357,
+            "coins_per_day": 277865.38486976,
+            "coins_per_month": 8335961.54609298
+        },
+        {
+            "name": "1inch",
+            "symbol": "1INCH",
+            "price": 119.03496882704813,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 496.7771940201787,
+            "price_per_month": 14903.315840841304,
+            "coins_per_day": 4.1733719,
+            "coins_per_month": 125.20115717
+        },
+        {
+            "name": "Aave",
+            "symbol": "AAVE",
+            "price": 11834.967188654127,
+            "chains": [
+                {
+                    "name": "Binance Smart Chain",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                },
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.99362516935986,
+            "price_per_month": 15059.809228479484,
+            "coins_per_day": 0.04241614,
+            "coins_per_month": 1.27248424
+        },
+        {
+            "name": "Cardano",
+            "symbol": "ADA",
+            "price": 73.78232007147014,
+            "chains": [
+                {
+                    "name": "Cardano",
+                    "network": "ADA",
+                    "token_standard": null,
+                    "regex": "^(([0-9A-Za-z]{57,59})|([0-9A-Za-z]{100,104}))$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.8958948840076,
+            "price_per_month": 15056.878248384308,
+            "coins_per_day": 6.802387,
+            "coins_per_month": 204.071629
+        },
+        {
+            "name": "Algorand",
+            "symbol": "ALGO",
+            "price": 62.55244863315131,
+            "chains": [
+                {
+                    "name": "Algorand",
+                    "network": "ALGO",
+                    "token_standard": null,
+                    "regex": "^[A-Z0-9]{58,58}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.80512580243476,
+            "price_per_month": 15054.154649807324,
+            "coins_per_day": 8.02215,
+            "coins_per_month": 240.664514
+        },
+        {
+            "name": "Cosmos",
+            "symbol": "ATOM",
+            "price": 2150.0686427523924,
+            "chains": [
+                {
+                    "name": "Cosmos",
+                    "network": "ATOM",
+                    "token_standard": null,
+                    "regex": "^(cosmos1)[0-9a-z]{38}$",
+                    "regex_memo": "^[0-9A-Za-z\\\\-_]{1,120}$",
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.74431860998385,
+            "price_per_month": 15052.38115994694,
+            "coins_per_day": 0.233362,
+            "coins_per_month": 7.000884
+        },
+        {
+            "name": "Band Protocol",
+            "symbol": "BAND",
+            "price": 294.97680181038226,
+            "chains": [
+                {
+                    "name": "Band Protocol",
+                    "network": "BAND",
+                    "token_standard": null,
+                    "regex": "^(band1)[0-9a-z]{38}$",
+                    "regex_memo": "^[0-9A-Za-z\\\\-_]{1,120}$",
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 500.86403739088473,
+            "price_per_month": 15025.921192520975,
+            "coins_per_day": 1.69797772,
+            "coins_per_month": 50.93933184
+        },
+        {
+            "name": "Basic Attention Token",
+            "symbol": "BAT",
+            "price": 62.37029066355493,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.9681810092945,
+            "price_per_month": 15059.045437763272,
+            "coins_per_day": 8.04819371,
+            "coins_per_month": 241.44581142
+        },
+        {
+            "name": "Bitcoin Cash",
+            "symbol": "BCH",
+            "price": 29033.787598807055,
+            "chains": [
+                {
+                    "name": "Bitcoin Cash",
+                    "network": "BCH",
+                    "token_standard": null,
+                    "regex": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$|^[0-9A-Za-z]{42,42}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 502.38265966144604,
+            "price_per_month": 15071.48211254639,
+            "coins_per_day": 0.01730338,
+            "coins_per_month": 0.51910148
+        },
+        {
+            "name": "Binance Coin",
+            "symbol": "BNB",
+            "price": 30936.59117792538,
+            "chains": [
+                {
+                    "name": "Binance Coin",
+                    "network": "BNB",
+                    "token_standard": "BEP2",
+                    "regex": "^(bnb1)[0-9a-z]{38}$",
+                    "regex_memo": "^[0-9A-Za-z\\\\-_]{1,120}$",
+                    "is_default": true
+                },
+                {
+                    "name": "Binance Smart Chain",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.67518732312067,
+            "price_per_month": 15050.255929059533,
+            "coins_per_day": 0.01621624,
+            "coins_per_month": 0.48648721
+        },
+        {
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "price": 3251002.7224278613,
+            "chains": [
+                {
+                    "name": "Bitcoin",
+                    "network": "BTC",
+                    "token_standard": null,
+                    "regex": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$|^(bc1)[0-9A-Za-z]{39,59}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.7597601795161,
+            "price_per_month": 15053.37798587552,
+            "coins_per_day": 0.00015434,
+            "coins_per_month": 0.00463038
+        },
+        {
+            "name": "Bitcoin Gold",
+            "symbol": "BTG",
+            "price": 3221.5343607354594,
+            "chains": [
+                {
+                    "name": "Bitcoin Gold",
+                    "network": "BTG",
+                    "token_standard": null,
+                    "regex": "^[AG][a-km-zA-HJ-NP-Z1-9]{25,34}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 499.73014436844653,
+            "price_per_month": 14991.904749852863,
+            "coins_per_day": 0.15512178,
+            "coins_per_month": 4.65365353
+        },
+        {
+            "name": "Bitcoin Gold",
+            "symbol": "BTG",
+            "price": 3.5063345222e-08,
+            "chains": [
+                {
+                    "name": "Bitcoin Gold",
+                    "network": "BTG",
+                    "token_standard": null,
+                    "regex": "^[AG][a-km-zA-HJ-NP-Z1-9]{25,34}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 5.439088523591135e-09,
+            "price_per_month": 1.6317266026596891e-07,
+            "coins_per_day": 0.15512178,
+            "coins_per_month": 4.65365353
+        },
+        {
+            "name": "BitTorrent",
+            "symbol": "BTT",
+            "price": 0.000141847976567145,
+            "chains": [
+                {
+                    "name": "BitTorrent",
+                    "network": "TRX",
+                    "token_standard": "TRC20",
+                    "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 497.5839246808667,
+            "price_per_month": 14927.517740427136,
+            "coins_per_day": 3507867.625065,
+            "coins_per_month": 105236028.751958
+        },
+        {
+            "name": "PancakeSwap",
+            "symbol": "CAKE",
+            "price": 527.6863012393303,
+            "chains": [
+                {
+                    "name": "Binance Smart Chain",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.20837990438696,
+            "price_per_month": 15036.251529053183,
+            "coins_per_day": 0.94982261,
+            "coins_per_month": 28.49467855
+        },
+        {
+            "name": "PancakeSwap",
+            "symbol": "CAKE",
+            "price": 84.05829181461885,
+            "chains": [
+                {
+                    "name": "Binance Smart Chain",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 79.84046612350292,
+            "price_per_month": 2395.2140047196604,
+            "coins_per_day": 0.94982261,
+            "coins_per_month": 28.49467855
+        },
+        {
+            "name": "Chiliz",
+            "symbol": "CHZ",
+            "price": 15.9860753677074,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 491.9346581455853,
+            "price_per_month": 14758.039747404913,
+            "coins_per_day": 30.77269729,
+            "coins_per_month": 923.18091889
+        },
+        {
+            "name": "Dash",
+            "symbol": "DASH",
+            "price": 9771.110977036198,
+            "chains": [
+                {
+                    "name": "Dash",
+                    "network": "DASH",
+                    "token_standard": null,
+                    "regex": "^[X|7][0-9A-Za-z]{33}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.3741716314739,
+            "price_per_month": 15041.226126055315,
+            "coins_per_day": 0.05131189,
+            "coins_per_month": 1.5393568
+        },
+        {
+            "name": "DigiByte",
+            "symbol": "DGB",
+            "price": 1.6240222665900579,
+            "chains": [
+                {
+                    "name": "DigiByte",
+                    "network": "DGB",
+                    "token_standard": null,
+                    "regex": "^[DS][a-km-zA-HJ-NP-Z1-9]{25,34}$|^(dgb1)[0-9A-Za-z]{39,59}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 491.4933838662133,
+            "price_per_month": 14744.801516441126,
+            "coins_per_day": 302.6395598,
+            "coins_per_month": 9079.18679428
+        },
+        {
+            "name": "Dogecoin",
+            "symbol": "DOGE",
+            "price": 9.389551822866396,
+            "chains": [
+                {
+                    "name": "Dogecoin",
+                    "network": "DOGE",
+                    "token_standard": null,
+                    "regex": "^(D|A|9)[a-km-zA-HJ-NP-Z1-9]{33,34}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.4676171168782,
+            "price_per_month": 15044.028514257512,
+            "coins_per_day": 53.40698114,
+            "coins_per_month": 1602.20943428
+        },
+        {
+            "name": "Dogelon Mars",
+            "symbol": "ELON",
+            "price": 5.529516751516e-05,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.56703686529244,
+            "price_per_month": 15047.011105958785,
+            "coins_per_day": 9070720.9943397,
+            "coins_per_month": 272121629.83019125
+        },
+        {
+            "name": "Enjin Coin",
+            "symbol": "ENJ",
+            "price": 111.866262683611,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 506.84188653065326,
+            "price_per_month": 15205.256620530177,
+            "coins_per_day": 4.53078412,
+            "coins_per_month": 135.92352382
+        },
+        {
+            "name": "EOS",
+            "symbol": "EOS",
+            "price": 188.33140584948984,
+            "chains": [
+                {
+                    "name": "EOS",
+                    "network": "EOS",
+                    "token_standard": null,
+                    "regex": "^[1-5a-z\\.]{1,12}$",
+                    "regex_memo": "^[0-9A-Za-z\\\\-_,]{1,120}$",
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 502.0350285729851,
+            "price_per_month": 15061.258021735986,
+            "coins_per_day": 2.6657,
+            "coins_per_month": 79.9721
+        },
+        {
+            "name": "Ethereum Classic",
+            "symbol": "ETC",
+            "price": 3424.5010823978223,
+            "chains": [
+                {
+                    "name": "Ethereum Classic",
+                    "network": "ETC",
+                    "token_standard": null,
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.9550128752317,
+            "price_per_month": 15058.650831442093,
+            "coins_per_day": 0.14657756,
+            "coins_per_month": 4.39732693
+        },
+        {
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "price": 228956.32239974203,
+            "chains": [
+                {
+                    "name": "Arbitrum One",
+                    "network": "ARBITRUM",
+                    "token_standard": "ETH",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                },
+                {
+                    "name": "Binance Smart Chain",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                },
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ETH",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.71656840100275,
+            "price_per_month": 15051.549711984233,
+            "coins_per_day": 0.00219132,
+            "coins_per_month": 0.06573983
+        },
+        {
+            "name": "FUNToken",
+            "symbol": "FUN",
+            "price": 0.8268576811179157,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 499.617065438006,
+            "price_per_month": 14988.511963214598,
+            "coins_per_day": 604.2358641,
+            "coins_per_month": 18127.07592309
+        },
+        {
+            "name": "GAS",
+            "symbol": "GAS",
+            "price": 367.58877554857946,
+            "chains": [
+                {
+                    "name": "GAS",
+                    "network": "NEO",
+                    "token_standard": null,
+                    "regex": "^(A)[A-Za-z0-9]{33}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 500.3167675410686,
+            "price_per_month": 15009.50308504626,
+            "coins_per_day": 1.36107738,
+            "coins_per_month": 40.83232156
+        },
+        {
+            "name": "GAS",
+            "symbol": "GAS",
+            "price": 0.000339045025662472,
+            "chains": [
+                {
+                    "name": "GAS",
+                    "network": "NEO",
+                    "token_standard": null,
+                    "regex": "^(A)[A-Za-z0-9]{33}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 0.00046146651523071015,
+            "price_per_month": 0.013843995511168506,
+            "coins_per_day": 1.36107738,
+            "coins_per_month": 40.83232156
+        },
+        {
+            "name": "Holo",
+            "symbol": "HOT",
+            "price": 0.34472135699511,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 499.2027958769768,
+            "price_per_month": 14976.083876333432,
+            "coins_per_day": 1448.1342271,
+            "coins_per_month": 43444.02681307
+        },
+        {
+            "name": "Holo",
+            "symbol": "HOT",
+            "price": 0.3280669055001903,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 475.08491463360684,
+            "price_per_month": 14252.547439031168,
+            "coins_per_day": 1448.1342271,
+            "coins_per_month": 43444.02681307
+        },
+        {
+            "name": "ICON",
+            "symbol": "ICX",
+            "price": 60.031683678832024,
+            "chains": [
+                {
+                    "name": "ICON",
+                    "network": "ICX",
+                    "token_standard": null,
+                    "regex": "^(hx)[A-Za-z0-9]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.3885703694406,
+            "price_per_month": 15041.657117686704,
+            "coins_per_day": 8.35206577,
+            "coins_per_month": 250.56197321
+        },
+        {
+            "name": "Klever",
+            "symbol": "KLV",
+            "price": 1.594566247112777,
+            "chains": [
+                {
+                    "name": "Klever",
+                    "network": "TRX",
+                    "token_standard": "TRC20",
+                    "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 503.1068826136614,
+            "price_per_month": 15093.2065134903,
+            "coins_per_day": 315.513315,
+            "coins_per_month": 9465.399472
+        },
+        {
+            "name": "KyberNetwork",
+            "symbol": "KNC",
+            "price": 252.68987326710516,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.5652716061042,
+            "price_per_month": 15046.958150710025,
+            "coins_per_day": 1.98490452,
+            "coins_per_month": 59.54713561
+        },
+        {
+            "name": "ChainLink",
+            "symbol": "LINK",
+            "price": 1187.1582028957507,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 504.0246708689776,
+            "price_per_month": 15120.740292271477,
+            "coins_per_day": 0.42456403,
+            "coins_per_month": 12.73692104
+        },
+        {
+            "name": "Lisk",
+            "symbol": "LSK",
+            "price": 166.43013513756873,
+            "chains": [
+                {
+                    "name": "Lisk",
+                    "network": "LSK",
+                    "token_standard": null,
+                    "regex": "^(lsk)[0-9A-Za-z]{38}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 500.9332056549234,
+            "price_per_month": 15027.996204598032,
+            "coins_per_day": 3.00987081,
+            "coins_per_month": 90.29612451
+        },
+        {
+            "name": "Litecoin",
+            "symbol": "LTC",
+            "price": 9276.277576572329,
+            "chains": [
+                {
+                    "name": "Litecoin",
+                    "network": "LTC",
+                    "token_standard": null,
+                    "regex": "^(L|M|3)[A-Za-z0-9]{33}$|^(ltc1)[0-9A-Za-z]{39}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.66712092145633,
+            "price_per_month": 15050.01362764369,
+            "coins_per_day": 0.05408065,
+            "coins_per_month": 1.6224195
+        },
+        {
+            "name": "Decentraland",
+            "symbol": "MANA",
+            "price": 186.61049216942754,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 502.81859350061427,
+            "price_per_month": 15084.55783674221,
+            "coins_per_day": 2.6944819,
+            "coins_per_month": 80.83445717
+        },
+        {
+            "name": "Decentraland",
+            "symbol": "MANA",
+            "price": 51361.154449794405,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 138391.70102807548,
+            "price_per_month": 4151751.0395736606,
+            "coins_per_day": 2.6944819,
+            "coins_per_month": 80.83445717
+        },
+        {
+            "name": "MATIC (Polygon)",
+            "symbol": "MATIC",
+            "price": 115.3821800022404,
+            "chains": [
+                {
+                    "name": "Binance Smart Chain",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                },
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                },
+                {
+                    "name": "Polygon",
+                    "network": "MATIC",
+                    "token_standard": "Polygon",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 502.7164787320412,
+            "price_per_month": 15081.494389652958,
+            "coins_per_day": 4.35696811,
+            "coins_per_month": 130.70904354
+        },
+        {
+            "name": "Metal",
+            "symbol": "MTL",
+            "price": 124.90633840889976,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 522.0617958164601,
+            "price_per_month": 15661.853893229752,
+            "coins_per_day": 4.17962613,
+            "coins_per_month": 125.38878405
+        },
+        {
+            "name": "NEO",
+            "symbol": "NEO",
+            "price": 1799.5940926139076,
+            "chains": [
+                {
+                    "name": "NEO",
+                    "network": "NEO",
+                    "token_standard": null,
+                    "regex": "^(A)[A-Za-z0-9]{33}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 485.8904050057551,
+            "price_per_month": 15008.614732399988,
+            "coins_per_day": 0.27,
+            "coins_per_month": 8.34
+        },
+        {
+            "name": "Qtum",
+            "symbol": "QTUM",
+            "price": 575.1041047506318,
+            "chains": [
+                {
+                    "name": "Qtum",
+                    "network": "QTUM",
+                    "token_standard": null,
+                    "regex": "^[Q|M][A-Za-z0-9]{33}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 500.648826933196,
+            "price_per_month": 15019.478610494394,
+            "coins_per_day": 0.870536,
+            "coins_per_month": 26.116104
+        },
+        {
+            "name": "Augur",
+            "symbol": "REP",
+            "price": 1087.9856583795197,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 505.0406469700339,
+            "price_per_month": 15151.219474380156,
+            "coins_per_day": 0.46419789,
+            "coins_per_month": 13.92593676
+        },
+        {
+            "name": "Reserve Rights",
+            "symbol": "RSR",
+            "price": 1.098729958893246,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 498.7787266587734,
+            "price_per_month": 14963.36179989505,
+            "coins_per_day": 453.95933971,
+            "coins_per_month": 13618.78019142
+        },
+        {
+            "name": "Ravencoin",
+            "symbol": "RVN",
+            "price": 4.431769806830054,
+            "chains": [
+                {
+                    "name": "Ravencoin",
+                    "network": "RVN",
+                    "token_standard": null,
+                    "regex": "^[Rr]{1}[A-Za-z0-9]{33,34}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 499.2895769165823,
+            "price_per_month": 14978.687307852011,
+            "coins_per_day": 112.66144197,
+            "coins_per_month": 3379.84325918
+        },
+        {
+            "name": "SafeMoon (V2)",
+            "symbol": "SAFEMOON",
+            "price": 4.0584101687691e-05,
+            "chains": [
+                {
+                    "name": "Binance Smart Chain - SAFEMOON V1 (Permanently disabled)",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                },
+                {
+                    "name": "Binance Smart Chain - SFM V2",
+                    "network": "BSC-V2",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 0.25395978557213417,
+            "price_per_month": 7.618793567169706,
+            "coins_per_day": 6257.61751551,
+            "coins_per_month": 187728.52546544
+        },
+        {
+            "name": "Saitama Inu",
+            "symbol": "SAITAMA",
+            "price": 8.31570786895e-07,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 498.22739880107054,
+            "price_per_month": 14946.821964032115,
+            "coins_per_day": 599140093.2461811,
+            "coins_per_month": 17974202797.385433
+        },
+        {
+            "name": "Siacoin",
+            "symbol": "SC",
+            "price": 0.7396062127836395,
+            "chains": [
+                {
+                    "name": "Siacoin",
+                    "network": "SC",
+                    "token_standard": null,
+                    "regex": "^[A-Za-z0-9]{76}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 496.32778400324844,
+            "price_per_month": 14889.833520171414,
+            "coins_per_day": 671.07032827,
+            "coins_per_month": 20132.1098482
+        },
+        {
+            "name": "Siacoin",
+            "symbol": "SC",
+            "price": 0.2939819832294485,
+            "chains": [
+                {
+                    "name": "Siacoin",
+                    "network": "SC",
+                    "token_standard": null,
+                    "regex": "^[A-Za-z0-9]{76}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 197.28258599125166,
+            "price_per_month": 5918.477579766948,
+            "coins_per_day": 671.07032827,
+            "coins_per_month": 20132.1098482
+        },
+        {
+            "name": "Solana",
+            "symbol": "SOL",
+            "price": 7010.3345474207235,
+            "chains": [
+                {
+                    "name": "Binance Smart Chain",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                },
+                {
+                    "name": "Solana",
+                    "network": "SOL",
+                    "token_standard": "Solana",
+                    "regex": "^[0-9a-zA-Z]{32,44}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.86375125879334,
+            "price_per_month": 15055.913589313983,
+            "coins_per_day": 0.07158913,
+            "coins_per_month": 2.14767405
+        },
+        {
+            "name": "Solana",
+            "symbol": "SOL",
+            "price": 7015.959057365629,
+            "chains": [
+                {
+                    "name": "Binance Smart Chain",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                },
+                {
+                    "name": "Solana",
+                    "network": "SOL",
+                    "token_standard": "Solana",
+                    "regex": "^[0-9a-zA-Z]{32,44}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 502.26640503242544,
+            "price_per_month": 15067.993203366623,
+            "coins_per_day": 0.07158913,
+            "coins_per_month": 2.14767405
+        },
+        {
+            "name": "Solana",
+            "symbol": "SOL",
+            "price": 58.0518454692944,
+            "chains": [
+                {
+                    "name": "Binance Smart Chain",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                },
+                {
+                    "name": "Solana",
+                    "network": "SOL",
+                    "token_standard": "Solana",
+                    "regex": "^[0-9a-zA-Z]{32,44}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 4.155881112041228,
+            "price_per_month": 124.67644206901365,
+            "coins_per_day": 0.07158913,
+            "coins_per_month": 2.14767405
+        },
+        {
+            "name": "Sushi",
+            "symbol": "SUSHI",
+            "price": 264.2934715539336,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 503.2357573832657,
+            "price_per_month": 15097.072774356666,
+            "coins_per_day": 1.90407941,
+            "coins_per_month": 57.1223825
+        },
+        {
+            "name": "TRON",
+            "symbol": "TRX",
+            "price": 4.814332414528815,
+            "chains": [
+                {
+                    "name": "TRON",
+                    "network": "TRX",
+                    "token_standard": null,
+                    "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 498.7072442865102,
+            "price_per_month": 14961.217362295634,
+            "coins_per_day": 103.588037,
+            "coins_per_month": 3107.641117
+        },
+        {
+            "name": "Uniswap",
+            "symbol": "UNI",
+            "price": 754.5266425601973,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 502.7117810325296,
+            "price_per_month": 15081.353529064349,
+            "coins_per_day": 0.66626114,
+            "coins_per_month": 19.98783433
+        },
+        {
+            "name": "Uniswap",
+            "symbol": "UNI",
+            "price": 0.006504195738598148,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 0.004333492867581544,
+            "price_per_month": 0.13000478687299175,
+            "coins_per_day": 0.66626114,
+            "coins_per_month": 19.98783433
+        },
+        {
+            "name": "TetherUS",
+            "symbol": "USDT",
+            "price": 76.12798613140511,
+            "chains": [
+                {
+                    "name": "Binance Smart Chain",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                },
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                },
+                {
+                    "name": "TRON",
+                    "network": "TRX",
+                    "token_standard": "TRC20",
+                    "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 502.45544251331825,
+            "price_per_month": 15073.665254727186,
+            "coins_per_day": 6.600141,
+            "coins_per_month": 198.004256
+        },
+        {
+            "name": "VeChain",
+            "symbol": "VET",
+            "price": 4.074495475093744,
+            "chains": [
+                {
+                    "name": "VeChain",
+                    "network": "VET",
+                    "token_standard": null,
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 499.11332830137815,
+            "price_per_month": 14973.399849611773,
+            "coins_per_day": 122.49696468,
+            "coins_per_month": 3674.90894054
+        },
+        {
+            "name": "Waves",
+            "symbol": "WAVES",
+            "price": 2498.4990653294853,
+            "chains": [
+                {
+                    "name": "Waves",
+                    "network": "WAVES",
+                    "token_standard": null,
+                    "regex": "^(3P)[0-9A-Za-z]{33}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.0833819083139,
+            "price_per_month": 15032.501632144353,
+            "coins_per_day": 0.20055376,
+            "coins_per_month": 6.01661287
+        },
+        {
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "price": 3245983.1714106165,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.43948031951203,
+            "price_per_month": 15043.833606219643,
+            "coins_per_day": 0.00015448,
+            "coins_per_month": 0.0046346
+        },
+        {
+            "name": "WINk",
+            "symbol": "WIN",
+            "price": 0.022556017859922544,
+            "chains": [
+                {
+                    "name": "WINk",
+                    "network": "TRX",
+                    "token_standard": "TRC20",
+                    "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 502.0093858976883,
+            "price_per_month": 15060.281577156211,
+            "coins_per_day": 22256.117592,
+            "coins_per_month": 667683.52777
+        },
+        {
+            "name": "Stellar Lumens",
+            "symbol": "XLM",
+            "price": 15.811816764782192,
+            "chains": [
+                {
+                    "name": "Stellar Lumens",
+                    "network": "XLM",
+                    "token_standard": null,
+                    "regex": "^G[A-D]{1}[A-Z2-7]{54}$",
+                    "regex_memo": "^[0-9A-Za-z]{1,28}$",
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.1280166362375,
+            "price_per_month": 15033.840525967214,
+            "coins_per_day": 31.6932598,
+            "coins_per_month": 950.7977957
+        },
+        {
+            "name": "Monero",
+            "symbol": "XMR",
+            "price": 14945.892492441535,
+            "chains": [
+                {
+                    "name": "Monero",
+                    "network": "XMR",
+                    "token_standard": null,
+                    "regex": "^[48][a-zA-Z|\\d]{94}([a-zA-Z|\\d]{11})?$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 502.1420822130808,
+            "price_per_month": 15064.266501783395,
+            "coins_per_day": 0.03359733,
+            "coins_per_month": 1.00792017
+        },
+        {
+            "name": "Ripple",
+            "symbol": "XRP",
+            "price": 63.86223118057916,
+            "chains": [
+                {
+                    "name": "Ripple",
+                    "network": "XRP",
+                    "token_standard": null,
+                    "regex": "^r[1-9A-HJ-NP-Za-km-z]{25,34}$",
+                    "regex_memo": "^((?!0)[0-9]{1,19})$",
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.8783310860754,
+            "price_per_month": 15056.351018240191,
+            "coins_per_day": 7.858766,
+            "coins_per_month": 235.762997
+        },
+        {
+            "name": "Tezos",
+            "symbol": "XTZ",
+            "price": 253.15731527614741,
+            "chains": [
+                {
+                    "name": "Tezos",
+                    "network": "XTZ",
+                    "token_standard": null,
+                    "regex": "^(tz[1,2,3]|KT1)[a-zA-Z0-9]{33}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.52564855606965,
+            "price_per_month": 15045.769507313551,
+            "coins_per_day": 1.98108298,
+            "coins_per_month": 59.4324896
+        },
+        {
+            "name": "Verge",
+            "symbol": "XVG",
+            "price": 0.7734405714409442,
+            "chains": [
+                {
+                    "name": "Verge",
+                    "network": "XVG",
+                    "token_standard": null,
+                    "regex": "^(D)[A-Za-z0-9]{33}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 497.40664241534074,
+            "price_per_month": 14922.199272576237,
+            "coins_per_day": 643.10906459,
+            "coins_per_month": 19293.27193785
+        },
+        {
+            "name": "Yearn.finance",
+            "symbol": "YFI",
+            "price": 1553619.8804560762,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.2133096339347,
+            "price_per_month": 15036.616795801307,
+            "coins_per_day": 0.00032261,
+            "coins_per_month": 0.00967844
+        },
+        {
+            "name": "Zcash",
+            "symbol": "ZEC",
+            "price": 13485.561614053579,
+            "chains": [
+                {
+                    "name": "Zcash",
+                    "network": "ZEC",
+                    "token_standard": null,
+                    "regex": "^(t)[A-Za-z0-9]{34}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 501.5528498600224,
+            "price_per_month": 15046.589271757926,
+            "coins_per_day": 0.03719184,
+            "coins_per_month": 1.11575548
+        },
+        {
+            "name": "Zilliqa",
+            "symbol": "ZIL",
+            "price": 3.4578185481426837,
+            "chains": [
+                {
+                    "name": "Zilliqa",
+                    "network": "ZIL",
+                    "token_standard": null,
+                    "regex": "zil1[qpzry9x8gf2tvdw0s3jn54khce6mua7l]{38}",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 498.7860453088923,
+            "price_per_month": 14963.581359474238,
+            "coins_per_day": 144.24876215,
+            "coins_per_month": 4327.46286456
+        },
+        {
+            "name": "0x",
+            "symbol": "ZRX",
+            "price": 43.441695518608235,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 502.30886460487864,
+            "price_per_month": 15069.265939884028,
+            "coins_per_day": 11.56282826,
+            "coins_per_month": 346.88484784
+        }
+    ]
+}
