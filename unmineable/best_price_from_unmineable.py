@@ -6,6 +6,8 @@ from datetime import datetime as date
 today = date.now()
 d1 = today.strftime("%Y_%m_%d_%H_%M")
 
+ETA_HASHPOWER = 175
+
 allCoins = []
 allCoinDt = []
 
@@ -20,7 +22,7 @@ if (os.system('ls {}'.format(d1)) == 512):
         resp = requests.post(
             'https://api.unminable.com/v3/calculate/reward',
             data={
-                "mh": "180",
+                "mh": str(ETA_HASHPOWER),
                 "algo": "ethash",
                 "coin": cn.get('symbol')
             }

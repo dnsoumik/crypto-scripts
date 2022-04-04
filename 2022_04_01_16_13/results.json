@@ -1,16 +1,9 @@
 {
-    "success": true,
-    "msg": "Ok",
     "data": [
         {
-            "symbol": "BABYDOGE",
-            "network": "BSC",
-            "token_standard": "BEP20",
             "name": "Baby Doge",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 1,
-            "logo": "https://www.unmineable.com/img/logos/BABYDOGE.png",
+            "symbol": "BABYDOGE",
+            "price": 1.210573868974e-06,
             "chains": [
                 {
                     "name": "Binance Smart Chain",
@@ -21,21 +14,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 2316524442.75276,
-                "per_month": 69495733282.5828,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 2674.2756645869913,
+            "price_per_month": 80228.26993760974,
+            "coins_per_day": 2209097464.5384717,
+            "coins_per_month": 66272923936.15415
         },
         {
-            "symbol": "CRO",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "Crypto.com Coin",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 1,
-            "logo": "https://www.unmineable.com/img/logos/CRO.png",
+            "symbol": "CRO",
+            "price": 35.11307394723525,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -46,21 +34,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 15.26875374,
-                "per_month": 458.06261232,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 516.870413512305,
+            "price_per_month": 15506.112410636111,
+            "coins_per_day": 14.72016988,
+            "coins_per_month": 441.60509655
         },
         {
-            "symbol": "FTM",
-            "network": "FTM",
-            "token_standard": "Fantom",
             "name": "Fantom",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 1,
-            "logo": "https://www.unmineable.com/img/logos/FTM.png?v3",
+            "symbol": "FTM",
+            "price": 114.78312946959194,
             "chains": [
                 {
                     "name": "Binance Smart Chain",
@@ -87,21 +70,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 5.09393318,
-                "per_month": 152.81799554,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.4876915637541,
+            "price_per_month": 15704.630769869249,
+            "coins_per_day": 4.56066753,
+            "coins_per_month": 136.8200261
         },
         {
-            "symbol": "SFM",
-            "network": "BSC",
-            "token_standard": "BEP20",
             "name": "SafeMoon (V2)",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 1,
-            "logo": "https://www.unmineable.com/img/logos/SAFEMOON.png",
+            "symbol": "SFM",
+            "price": 0.0860249422386065,
             "chains": [
                 {
                     "name": "Binance Smart Chain",
@@ -112,21 +90,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 6254.33198704,
-                "per_month": 187629.95961147,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 505.10847857262496,
+            "price_per_month": 15153.254357200254,
+            "coins_per_day": 5871.65147024,
+            "coins_per_month": 176149.54410745
         },
         {
-            "symbol": "SHIB",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "SHIBA INU",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 1,
-            "logo": "https://www.unmineable.com/img/logos/SHIB.png",
+            "symbol": "SHIB",
+            "price": 0.001934966221876821,
             "chains": [
                 {
                     "name": "Binance Smart Chain",
@@ -153,21 +126,16 @@
                     "is_default": false
                 }
             ],
-            "reward": {
-                "per_day": 277865.38486976,
-                "per_month": 8335961.54609298,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.6097529836251,
+            "price_per_month": 15708.292589509023,
+            "coins_per_day": 270604.07931863,
+            "coins_per_month": 8118122.37955904
         },
         {
-            "symbol": "1INCH",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "1inch",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/1INCH.png",
+            "symbol": "1INCH",
+            "price": 132.18308814856627,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -178,21 +146,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 4.1733719,
-                "per_month": 125.20115717,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 527.5928669610495,
+            "price_per_month": 15827.786011475146,
+            "coins_per_day": 3.99137949,
+            "coins_per_month": 119.74138472
         },
         {
-            "symbol": "AAVE",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "Aave",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/AAVE.png",
+            "symbol": "AAVE",
+            "price": 16664.39816398861,
             "chains": [
                 {
                     "name": "Binance Smart Chain",
@@ -211,21 +174,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.04241614,
-                "per_month": 1.27248424,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 521.5053414947947,
+            "price_per_month": 15645.16391101144,
+            "coins_per_day": 0.03129458,
+            "coins_per_month": 0.93883762
         },
         {
-            "symbol": "ADA",
-            "network": "ADA",
-            "token_standard": null,
             "name": "Cardano",
-            "regex": "^(([0-9A-Za-z]{57,59})|([0-9A-Za-z]{100,104}))$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/ADA.png",
+            "symbol": "ADA",
+            "price": 87.33384118687648,
             "chains": [
                 {
                     "name": "Cardano",
@@ -236,21 +194,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 6.802387,
-                "per_month": 204.071629,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.1994011146572,
+            "price_per_month": 15695.982994111971,
+            "coins_per_day": 5.990798,
+            "coins_per_month": 179.723951
         },
         {
-            "symbol": "ALGO",
-            "network": "ALGO",
-            "token_standard": null,
             "name": "Algorand",
-            "regex": "^[A-Z0-9]{58,58}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/ALGO.png",
+            "symbol": "ALGO",
+            "price": 70.59788387775919,
             "chains": [
                 {
                     "name": "Algorand",
@@ -261,21 +214,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 8.02215,
-                "per_month": 240.664514,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.1286957828663,
+            "price_per_month": 15693.86249723732,
+            "coins_per_day": 7.409977,
+            "coins_per_month": 222.299333
         },
         {
-            "symbol": "ATOM",
-            "network": "ATOM",
-            "token_standard": null,
             "name": "Cosmos",
-            "regex": "^(cosmos1)[0-9a-z]{38}$",
-            "regex_memo": "^[0-9A-Za-z\\\\-_]{1,120}$",
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/ATOM.png",
+            "symbol": "ATOM",
+            "price": 2161.7607037793327,
             "chains": [
                 {
                     "name": "Cosmos",
@@ -286,21 +234,44 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.233362,
-                "per_month": 7.000884,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.3665899063841,
+            "price_per_month": 15701.021476559263,
+            "coins_per_day": 0.242102,
+            "coins_per_month": 7.263071
         },
         {
-            "symbol": "BAND",
-            "network": "BAND",
-            "token_standard": null,
+            "name": "Avalanche",
+            "symbol": "AVAX",
+            "price": 7118.237099919768,
+            "chains": [
+                {
+                    "name": "AVAX C-Chain",
+                    "network": "AVAXC",
+                    "token_standard": "C-Chain",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                },
+                {
+                    "name": "Binance Smart Chain",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 523.4197764434623,
+            "price_per_month": 15702.594005127581,
+            "coins_per_day": 0.07353222,
+            "coins_per_month": 2.2059667
+        },
+        {
             "name": "Band Protocol",
-            "regex": "^(band1)[0-9a-z]{38}$",
-            "regex_memo": "^[0-9A-Za-z\\\\-_]{1,120}$",
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/BAND.png",
+            "symbol": "BAND",
+            "price": 384.9399717688069,
             "chains": [
                 {
                     "name": "Band Protocol",
@@ -311,21 +282,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 1.69797772,
-                "per_month": 50.93933184,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.7020549601054,
+            "price_per_month": 15711.061710393558,
+            "coins_per_day": 1.3604772,
+            "coins_per_month": 40.81431616
         },
         {
-            "symbol": "BAT",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "Basic Attention Token",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/BAT.png",
+            "symbol": "BAT",
+            "price": 64.61620001308302,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -336,21 +302,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 8.04819371,
-                "per_month": 241.44581142,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 525.1544915260854,
+            "price_per_month": 15754.634761290452,
+            "coins_per_day": 8.12728838,
+            "coins_per_month": 243.81865164
         },
         {
-            "symbol": "BCH",
-            "network": "BCH",
-            "token_standard": null,
             "name": "Bitcoin Cash",
-            "regex": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$|^[0-9A-Za-z]{42,42}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/BCH.png?v2",
+            "symbol": "BCH",
+            "price": 28029.7267153484,
             "chains": [
                 {
                     "name": "Bitcoin Cash",
@@ -361,21 +322,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.01730338,
-                "per_month": 0.51910148,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 522.4188874124649,
+            "price_per_month": 15672.57447069743,
+            "coins_per_day": 0.01863803,
+            "coins_per_month": 0.55914118
         },
         {
-            "symbol": "BNB",
-            "network": "BNB",
-            "token_standard": "BEP2",
             "name": "Binance Coin",
-            "regex": "^(bnb1)[0-9a-z]{38}$",
-            "regex_memo": "^[0-9A-Za-z\\\\-_]{1,120}$",
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/BNB.png",
+            "symbol": "BNB",
+            "price": 32823.51207456611,
             "chains": [
                 {
                     "name": "Binance Coin",
@@ -394,21 +350,16 @@
                     "is_default": false
                 }
             ],
-            "reward": {
-                "per_day": 0.01621624,
-                "per_month": 0.48648721,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.4391729340717,
+            "price_per_month": 15703.184706840653,
+            "coins_per_day": 0.01594708,
+            "coins_per_month": 0.47841269
         },
         {
-            "symbol": "BTC",
-            "network": "BTC",
-            "token_standard": null,
             "name": "Bitcoin",
-            "regex": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$|^(bc1)[0-9A-Za-z]{39,59}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/BTC.png",
+            "symbol": "BTC",
+            "price": 3428513.9218780776,
             "chains": [
                 {
                     "name": "Bitcoin",
@@ -419,21 +370,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.00015434,
-                "per_month": 0.00463038,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.3283650354698,
+            "price_per_month": 15700.399513291593,
+            "coins_per_day": 0.00015264,
+            "coins_per_month": 0.00457936
         },
         {
-            "symbol": "BTG",
-            "network": "BTG",
-            "token_standard": null,
             "name": "Bitcoin Gold",
-            "regex": "^[AG][a-km-zA-HJ-NP-Z1-9]{25,34}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/BTG.png?v2",
+            "symbol": "BTG",
+            "price": 3118.8831405321644,
             "chains": [
                 {
                     "name": "Bitcoin Gold",
@@ -444,21 +390,36 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.15512178,
-                "per_month": 4.65365353,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.1687873682455,
+            "price_per_month": 15695.064026502174,
+            "coins_per_day": 0.16774235,
+            "coins_per_month": 5.03227063
         },
         {
-            "symbol": "BTT",
-            "network": "TRX",
-            "token_standard": "TRC20",
+            "name": "Bitcoin Gold",
+            "symbol": "BTG",
+            "price": 3.1071490939e-08,
+            "chains": [
+                {
+                    "name": "Bitcoin Gold",
+                    "network": "BTG",
+                    "token_standard": null,
+                    "regex": "^[AG][a-km-zA-HJ-NP-Z1-9]{25,34}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 5.212004908111567e-09,
+            "price_per_month": 1.563601512826408e-07,
+            "coins_per_day": 0.16774235,
+            "coins_per_month": 5.03227063
+        },
+        {
             "name": "BitTorrent",
-            "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/BTT.png?v1",
+            "symbol": "BTT",
+            "price": 0.000160053655652308,
             "chains": [
                 {
                     "name": "BitTorrent",
@@ -469,21 +430,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 3507867.625065,
-                "per_month": 105236028.751958,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 519.8186614866689,
+            "price_per_month": 15594.559844604071,
+            "coins_per_day": 3247777.499165,
+            "coins_per_month": 97433324.974975
         },
         {
-            "symbol": "CAKE",
-            "network": "BSC",
-            "token_standard": "BEP20",
             "name": "PancakeSwap",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/CAKE.png",
+            "symbol": "CAKE",
+            "price": 678.0852949423183,
             "chains": [
                 {
                     "name": "Binance Smart Chain",
@@ -494,21 +450,36 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.94982261,
-                "per_month": 28.49467855,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.8193171850567,
+            "price_per_month": 15714.579603702789,
+            "coins_per_day": 0.77249768,
+            "coins_per_month": 23.17493053
         },
         {
-            "symbol": "CHZ",
-            "network": "ETH",
-            "token_standard": "ERC20",
+            "name": "PancakeSwap",
+            "symbol": "CAKE",
+            "price": 93.02745666080949,
+            "chains": [
+                {
+                    "name": "Binance Smart Chain",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 71.86349444677587,
+            "price_per_month": 2155.9048454968456,
+            "coins_per_day": 0.77249768,
+            "coins_per_month": 23.17493053
+        },
+        {
             "name": "Chiliz",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/CHZ.png",
+            "symbol": "CHZ",
+            "price": 20.8616382067422,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -519,21 +490,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 30.77269729,
-                "per_month": 923.18091889,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 528.9439676308459,
+            "price_per_month": 15868.319033514936,
+            "coins_per_day": 25.35486247,
+            "coins_per_month": 760.64587432
         },
         {
-            "symbol": "DASH",
-            "network": "DASH",
-            "token_standard": null,
             "name": "Dash",
-            "regex": "^[X|7][0-9A-Za-z]{33}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/DASH.png",
+            "symbol": "DASH",
+            "price": 9501.553753191421,
             "chains": [
                 {
                     "name": "Dash",
@@ -544,21 +510,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.05131189,
-                "per_month": 1.5393568,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.5991771954562,
+            "price_per_month": 15707.976456050135,
+            "coins_per_day": 0.05510669,
+            "coins_per_month": 1.65320082
         },
         {
-            "symbol": "DGB",
-            "network": "DGB",
-            "token_standard": null,
             "name": "DigiByte",
-            "regex": "^[DS][a-km-zA-HJ-NP-Z1-9]{25,34}$|^(dgb1)[0-9A-Za-z]{39,59}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/DGB.png",
+            "symbol": "DGB",
+            "price": 2.4948596661412785,
             "chains": [
                 {
                     "name": "DigiByte",
@@ -569,21 +530,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 302.6395598,
-                "per_month": 9079.18679428,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 521.6838453372837,
+            "price_per_month": 15650.515360343052,
+            "coins_per_day": 209.10348282,
+            "coins_per_month": 6273.10448469
         },
         {
-            "symbol": "DOGE",
-            "network": "DOGE",
-            "token_standard": null,
             "name": "Dogecoin",
-            "regex": "^(D|A|9)[a-km-zA-HJ-NP-Z1-9]{33,34}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/DOGE.png",
+            "symbol": "DOGE",
+            "price": 10.367523276008427,
             "chains": [
                 {
                     "name": "Dogecoin",
@@ -594,21 +550,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 53.40698114,
-                "per_month": 1602.20943428,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 522.2957802529826,
+            "price_per_month": 15668.873410285036,
+            "coins_per_day": 50.37806681,
+            "coins_per_month": 1511.34200456
         },
         {
-            "symbol": "ELON",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "Dogelon Mars",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/ELON.png",
+            "symbol": "ELON",
+            "price": 7.2087475443365e-05,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -619,21 +570,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 9070720.9943397,
-                "per_month": 272121629.83019125,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.1545170504386,
+            "price_per_month": 15694.635511513161,
+            "coins_per_day": 7257217.89857173,
+            "coins_per_month": 217716536.95715195
         },
         {
-            "symbol": "ENJ",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "Enjin Coin",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/ENJ.png",
+            "symbol": "ENJ",
+            "price": 139.76642552054818,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -644,21 +590,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 4.53078412,
-                "per_month": 135.92352382,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 528.9506762301776,
+            "price_per_month": 15868.52031066562,
+            "coins_per_day": 3.78453319,
+            "coins_per_month": 113.53599587
         },
         {
-            "symbol": "EOS",
-            "network": "EOS",
-            "token_standard": null,
             "name": "EOS",
-            "regex": "^[1-5a-z\\.]{1,12}$",
-            "regex_memo": "^[0-9A-Za-z\\\\-_,]{1,120}$",
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/EOS.png?v2",
+            "symbol": "EOS",
+            "price": 209.19437201310706,
             "chains": [
                 {
                     "name": "EOS",
@@ -669,21 +610,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 2.6657,
-                "per_month": 79.9721,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 522.6093801631441,
+            "price_per_month": 15678.846229698758,
+            "coins_per_day": 2.4982,
+            "coins_per_month": 74.9487
         },
         {
-            "symbol": "ETC",
-            "network": "ETC",
-            "token_standard": null,
             "name": "Ethereum Classic",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/ETC.png",
+            "symbol": "ETC",
+            "price": 3451.9589656798416,
             "chains": [
                 {
                     "name": "Ethereum Classic",
@@ -694,21 +630,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.14657756,
-                "per_month": 4.39732693,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.2633012351477,
+            "price_per_month": 15697.899140613199,
+            "coins_per_day": 0.15158445,
+            "coins_per_month": 4.54753353
         },
         {
-            "symbol": "ETH",
-            "network": "ETH",
-            "token_standard": "ETH",
             "name": "Ethereum",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/ETH.png",
+            "symbol": "ETH",
+            "price": 248861.90063641834,
             "chains": [
                 {
                     "name": "Arbitrum One",
@@ -735,21 +666,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.00219132,
-                "per_month": 0.06573983,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.5258031308206,
+            "price_per_month": 15705.816400447726,
+            "coins_per_day": 0.00210368,
+            "coins_per_month": 0.06311057
         },
         {
-            "symbol": "FUN",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "FUNToken",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/FUN.png?v3",
+            "symbol": "FUN",
+            "price": 0.8628010336927172,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -760,21 +686,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 604.2358641,
-                "per_month": 18127.07592309,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 545.1586908900568,
+            "price_per_month": 16354.760726874265,
+            "coins_per_day": 631.8475171,
+            "coins_per_month": 18955.4255132
         },
         {
-            "symbol": "GAS",
-            "network": "NEO",
-            "token_standard": null,
             "name": "GAS",
-            "regex": "^(A)[A-Za-z0-9]{33}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/GAS.png?v2",
+            "symbol": "GAS",
+            "price": 439.84764146363375,
             "chains": [
                 {
                     "name": "GAS",
@@ -785,21 +706,36 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 1.36107738,
-                "per_month": 40.83232156,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 520.8749532661824,
+            "price_per_month": 15626.248677158048,
+            "coins_per_day": 1.18421677,
+            "coins_per_month": 35.52650328
         },
         {
-            "symbol": "HOT",
-            "network": "ETH",
-            "token_standard": "ERC20",
+            "name": "GAS",
+            "symbol": "GAS",
+            "price": 0.00029351698263718,
+            "chains": [
+                {
+                    "name": "GAS",
+                    "network": "NEO",
+                    "token_standard": null,
+                    "regex": "^(A)[A-Za-z0-9]{33}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 0.0003475877331187474,
+            "price_per_month": 0.010427632046395479,
+            "coins_per_day": 1.18421677,
+            "coins_per_month": 35.52650328
+        },
+        {
             "name": "Holo",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/HOT.png",
+            "symbol": "HOT",
+            "price": 0.48671670330661343,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -810,21 +746,36 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 1448.1342271,
-                "per_month": 43444.02681307,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 517.5895941952548,
+            "price_per_month": 15527.687825979325,
+            "coins_per_day": 1063.43092538,
+            "coins_per_month": 31902.92776165
         },
         {
-            "symbol": "ICX",
-            "network": "ICX",
-            "token_standard": null,
+            "name": "Holo",
+            "symbol": "HOT",
+            "price": 0.4201831452189697,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 446.83575094928784,
+            "price_per_month": 13405.072528583682,
+            "coins_per_day": 1063.43092538,
+            "coins_per_month": 31902.92776165
+        },
+        {
             "name": "ICON",
-            "regex": "^(hx)[A-Za-z0-9]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/ICX.png",
+            "symbol": "ICX",
+            "price": 74.1162669824702,
             "chains": [
                 {
                     "name": "ICON",
@@ -835,21 +786,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 8.35206577,
-                "per_month": 250.56197321,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 520.6404865119545,
+            "price_per_month": 15619.214604252584,
+            "coins_per_day": 7.0246453,
+            "coins_per_month": 210.73935912
         },
         {
-            "symbol": "KLV",
-            "network": "TRX",
-            "token_standard": "TRC20",
             "name": "Klever",
-            "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/KLV.png?20211001",
+            "symbol": "KLV",
+            "price": 2.3908742467156987,
             "chains": [
                 {
                     "name": "Klever",
@@ -860,21 +806,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 315.513315,
-                "per_month": 9465.399472,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 517.7727620499153,
+            "price_per_month": 15533.182863888333,
+            "coins_per_day": 216.562106,
+            "coins_per_month": 6496.863181
         },
         {
-            "symbol": "KNC",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "KyberNetwork",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/KNC.png",
+            "symbol": "KNC",
+            "price": 238.2829598591306,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -885,21 +826,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 1.98490452,
-                "per_month": 59.54713561,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 525.0120027068406,
+            "price_per_month": 15750.36013124464,
+            "coins_per_day": 2.20331325,
+            "coins_per_month": 66.09939771
         },
         {
-            "symbol": "LINK",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "ChainLink",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/LINK.png?v2",
+            "symbol": "LINK",
+            "price": 1275.6820919368945,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -910,21 +846,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.42456403,
-                "per_month": 12.73692104,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 524.4812563465417,
+            "price_per_month": 15734.437843478103,
+            "coins_per_day": 0.4111379,
+            "coins_per_month": 12.33413712
         },
         {
-            "symbol": "LSK",
-            "network": "LSK",
-            "token_standard": null,
             "name": "Lisk",
-            "regex": "^(lsk)[0-9A-Za-z]{38}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/LSK.png",
+            "symbol": "LSK",
+            "price": 193.1420738824053,
             "chains": [
                 {
                     "name": "Lisk",
@@ -935,21 +866,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 3.00987081,
-                "per_month": 90.29612451,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 522.7353996174239,
+            "price_per_month": 15682.062040671077,
+            "coins_per_day": 2.70648124,
+            "coins_per_month": 81.19443747
         },
         {
-            "symbol": "LTC",
-            "network": "LTC",
-            "token_standard": null,
             "name": "Litecoin",
-            "regex": "^(L|M|3)[A-Za-z0-9]{33}$|^(ltc1)[0-9A-Za-z]{39}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/LTC.png?v2",
+            "symbol": "LTC",
+            "price": 9288.256687322344,
             "chains": [
                 {
                     "name": "Litecoin",
@@ -960,21 +886,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.05408065,
-                "per_month": 1.6224195,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.5637967233934,
+            "price_per_month": 15706.916316648538,
+            "coins_per_day": 0.05636836,
+            "coins_per_month": 1.69105106
         },
         {
-            "symbol": "MANA",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "Decentraland",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/MANA.png",
+            "symbol": "MANA",
+            "price": 195.17713515503362,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -985,21 +906,36 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 2.6944819,
-                "per_month": 80.83445717,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.5044671352172,
+            "price_per_month": 15705.134045284858,
+            "coins_per_day": 2.68220182,
+            "coins_per_month": 80.46605476
         },
         {
-            "symbol": "MATIC",
-            "network": "ETH",
-            "token_standard": "ERC20",
+            "name": "Decentraland",
+            "symbol": "MANA",
+            "price": 56319.49620260007,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 151060.255216097,
+            "price_per_month": 4531807.665494029,
+            "coins_per_day": 2.68220182,
+            "coins_per_month": 80.46605476
+        },
+        {
             "name": "MATIC (Polygon)",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/MATIC.png",
+            "symbol": "MATIC",
+            "price": 123.77213290917814,
             "chains": [
                 {
                     "name": "Binance Smart Chain",
@@ -1026,21 +962,16 @@
                     "is_default": false
                 }
             ],
-            "reward": {
-                "per_day": 4.35696811,
-                "per_month": 130.70904354,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.8877943903802,
+            "price_per_month": 15716.633842850899,
+            "coins_per_day": 4.2326797,
+            "coins_per_month": 126.98039109
         },
         {
-            "symbol": "MTL",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "Metal",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/MTL.png?v2",
+            "symbol": "MTL",
+            "price": 150.75876331542364,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -1051,46 +982,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 4.17962613,
-                "per_month": 125.38878405,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 505.81342387385354,
+            "price_per_month": 15174.402732799072,
+            "coins_per_day": 3.35511789,
+            "coins_per_month": 100.65353681
         },
         {
-            "symbol": "NANO",
-            "network": "NANO",
-            "token_standard": null,
-            "name": "NANO",
-            "regex": "^(xrb_|nano_)[13456789abcdefghijkmnopqrstuwxyz]{60}",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/NANO.png",
-            "chains": [
-                {
-                    "name": "NANO",
-                    "network": "NANO",
-                    "token_standard": null,
-                    "regex": "^(xrb_|nano_)[13456789abcdefghijkmnopqrstuwxyz]{60}",
-                    "regex_memo": null,
-                    "is_default": true
-                }
-            ],
-            "reward": {
-                "per_day": 2.93322264,
-                "per_month": 87.9966793,
-                "algo": "ethash"
-            }
-        },
-        {
-            "symbol": "NEO",
-            "network": "NEO",
-            "token_standard": null,
             "name": "NEO",
-            "regex": "^(A)[A-Za-z0-9]{33}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/NEO.png",
+            "symbol": "NEO",
+            "price": 2021.2664634179278,
             "chains": [
                 {
                     "name": "NEO",
@@ -1101,21 +1002,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.27,
-                "per_month": 8.34,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 505.31661585448194,
+            "price_per_month": 15685.02775612312,
+            "coins_per_day": 0.25,
+            "coins_per_month": 7.76
         },
         {
-            "symbol": "QTUM",
-            "network": "QTUM",
-            "token_standard": null,
             "name": "Qtum",
-            "regex": "^[Q|M][A-Za-z0-9]{33}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/QTUM.png",
+            "symbol": "QTUM",
+            "price": 625.0727645873407,
             "chains": [
                 {
                     "name": "Qtum",
@@ -1126,21 +1022,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.870536,
-                "per_month": 26.116104,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 522.8189862467914,
+            "price_per_month": 15684.586464368385,
+            "coins_per_day": 0.836413,
+            "coins_per_month": 25.092417
         },
         {
-            "symbol": "REP",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "Augur",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/REP.png?v2",
+            "symbol": "REP",
+            "price": 1230.0206277591292,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -1151,21 +1042,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.46419789,
-                "per_month": 13.92593676,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 514.8320710649241,
+            "price_per_month": 15444.962131947723,
+            "coins_per_day": 0.41855564,
+            "coins_per_month": 12.5566692
         },
         {
-            "symbol": "RSR",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "Reserve Rights",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/RSR.png",
+            "symbol": "RSR",
+            "price": 1.564255207566263,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -1176,21 +1062,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 453.95933971,
-                "per_month": 13618.78019142,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 519.0795319629457,
+            "price_per_month": 15572.385959091724,
+            "coins_per_day": 331.83813578,
+            "coins_per_month": 9955.14407353
         },
         {
-            "symbol": "RVN",
-            "network": "RVN",
-            "token_standard": null,
             "name": "Ravencoin",
-            "regex": "^[Rr]{1}[A-Za-z0-9]{33,34}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/RVN.png",
+            "symbol": "RVN",
+            "price": 5.303112462090018,
             "chains": [
                 {
                     "name": "Ravencoin",
@@ -1201,21 +1082,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 112.66144197,
-                "per_month": 3379.84325918,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 522.2557925529294,
+            "price_per_month": 15667.673777489412,
+            "coins_per_day": 98.48099513,
+            "coins_per_month": 2954.42985407
         },
         {
-            "symbol": "SAFEMOON",
-            "network": "BSC-V2",
-            "token_standard": "BEP20",
             "name": "SafeMoon (V2)",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/SAFEMOON.png",
+            "symbol": "SAFEMOON",
+            "price": 4.3443410244679e-05,
             "chains": [
                 {
                     "name": "Binance Smart Chain - SAFEMOON V1 (Permanently disabled)",
@@ -1234,21 +1110,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 6257.61751551,
-                "per_month": 187728.52546544,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 0.25783162378605506,
+            "price_per_month": 7.734948713585562,
+            "coins_per_day": 5934.88453908,
+            "coins_per_month": 178046.53617249
         },
         {
-            "symbol": "SAITAMA",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "Saitama Inu",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/SAITAMA.png",
+            "symbol": "SAITAMA",
+            "price": 9.02938243723e-07,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -1259,21 +1130,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 599140093.2461811,
-                "per_month": 17974202797.385433,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 524.0312862568213,
+            "price_per_month": 15720.938587704637,
+            "coins_per_day": 580362267.1868815,
+            "coins_per_month": 17410868015.606445
         },
         {
-            "symbol": "SC",
-            "network": "SC",
-            "token_standard": null,
             "name": "Siacoin",
-            "regex": "^[A-Za-z0-9]{76}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/SC.png",
+            "symbol": "SC",
+            "price": 0.9638734370621104,
             "chains": [
                 {
                     "name": "Siacoin",
@@ -1284,46 +1150,36 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 671.07032827,
-                "per_month": 20132.1098482,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 507.3482195210565,
+            "price_per_month": 15220.446585911217,
+            "coins_per_day": 526.36393951,
+            "coins_per_month": 15790.91818559
         },
         {
-            "symbol": "SKY",
-            "network": "SKY",
-            "token_standard": null,
-            "name": "Skycoin",
-            "regex": "^[0-9A-Za-z]{26,35}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/SKY.png",
+            "name": "Siacoin",
+            "symbol": "SC",
+            "price": 0.24177523614382032,
             "chains": [
                 {
-                    "name": "Skycoin",
-                    "network": "SKY",
+                    "name": "Siacoin",
+                    "network": "SC",
                     "token_standard": null,
-                    "regex": "^[0-9A-Za-z]{26,35}$",
+                    "regex": "^[A-Za-z0-9]{76}$",
                     "regex_memo": null,
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": null,
-                "per_month": null,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 127.26176577262181,
+            "price_per_month": 3817.852973248769,
+            "coins_per_day": 526.36393951,
+            "coins_per_month": 15790.91818559
         },
         {
-            "symbol": "SOL",
-            "network": "SOL",
-            "token_standard": "Solana",
             "name": "Solana",
-            "regex": "^[0-9a-zA-Z]{32,44}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/SOL.png",
+            "symbol": "SOL",
+            "price": 9455.160870258542,
             "chains": [
                 {
                     "name": "Binance Smart Chain",
@@ -1342,21 +1198,72 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.07158913,
-                "per_month": 2.14767405,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.2906780259804,
+            "price_per_month": 15698.72185360515,
+            "coins_per_day": 0.05534445,
+            "coins_per_month": 1.66033366
         },
         {
-            "symbol": "SUSHI",
-            "network": "ETH",
-            "token_standard": "ERC20",
+            "name": "Solana",
+            "symbol": "SOL",
+            "price": 9307.299517350843,
+            "chains": [
+                {
+                    "name": "Binance Smart Chain",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                },
+                {
+                    "name": "Solana",
+                    "network": "SOL",
+                    "token_standard": "Solana",
+                    "regex": "^[0-9a-zA-Z]{32,44}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 515.1073727730478,
+            "price_per_month": 15453.222672359358,
+            "coins_per_day": 0.05534445,
+            "coins_per_month": 1.66033366
+        },
+        {
+            "name": "Solana",
+            "symbol": "SOL",
+            "price": 57.10278073867445,
+            "chains": [
+                {
+                    "name": "Binance Smart Chain",
+                    "network": "BSC",
+                    "token_standard": "BEP20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": false
+                },
+                {
+                    "name": "Solana",
+                    "network": "SOL",
+                    "token_standard": "Solana",
+                    "regex": "^[0-9a-zA-Z]{32,44}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 3.160321993452531,
+            "price_per_month": 94.80966894002086,
+            "coins_per_day": 0.05534445,
+            "coins_per_month": 1.66033366
+        },
+        {
             "name": "Sushi",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/SUSHI.png?v3",
+            "symbol": "SUSHI",
+            "price": 332.04513377930493,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -1367,21 +1274,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 1.90407941,
-                "per_month": 57.1223825,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 525.3573048131509,
+            "price_per_month": 15760.719147714977,
+            "coins_per_day": 1.58218643,
+            "coins_per_month": 47.46559291
         },
         {
-            "symbol": "TRX",
-            "network": "TRX",
-            "token_standard": null,
             "name": "TRON",
-            "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/TRX.png?v2",
+            "symbol": "TRX",
+            "price": 5.493160047416051,
             "chains": [
                 {
                     "name": "TRON",
@@ -1392,21 +1294,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 103.588037,
-                "per_month": 3107.641117,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 520.8114204737583,
+            "price_per_month": 15624.342768021228,
+            "coins_per_day": 94.810895,
+            "coins_per_month": 2844.326878
         },
         {
-            "symbol": "UNI",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "Uniswap",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/UNI.png",
+            "symbol": "UNI",
+            "price": 851.5743056170727,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -1417,21 +1314,36 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.66626114,
-                "per_month": 19.98783433,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.3418702373614,
+            "price_per_month": 15700.256345561647,
+            "coins_per_day": 0.61455808,
+            "coins_per_month": 18.43674268
         },
         {
-            "symbol": "USDT",
-            "network": "TRX",
-            "token_standard": "TRC20",
+            "name": "Uniswap",
+            "symbol": "UNI",
+            "price": 0.006857454359077687,
+            "chains": [
+                {
+                    "name": "Ethereum",
+                    "network": "ETH",
+                    "token_standard": "ERC20",
+                    "regex": "^(0x)[0-9A-Fa-f]{40}$",
+                    "regex_memo": null,
+                    "is_default": true
+                }
+            ],
+            "currency": "INR",
+            "price_per_day": 0.0042143039846024135,
+            "price_per_month": 0.12642912145815963,
+            "coins_per_day": 0.61455808,
+            "coins_per_month": 18.43674268
+        },
+        {
             "name": "TetherUS",
-            "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/USDT.png",
+            "symbol": "USDT",
+            "price": 76.03048148320663,
             "chains": [
                 {
                     "name": "Binance Smart Chain",
@@ -1458,21 +1370,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 6.600141,
-                "per_month": 198.004256,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.470701347174,
+            "price_per_month": 15704.122256902921,
+            "coins_per_day": 6.885011,
+            "coins_per_month": 206.550346
         },
         {
-            "symbol": "VET",
-            "network": "VET",
-            "token_standard": null,
             "name": "VeChain",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/VET.png",
+            "symbol": "VET",
+            "price": 6.059588249386775,
             "chains": [
                 {
                     "name": "VeChain",
@@ -1483,21 +1390,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 122.49696468,
-                "per_month": 3674.90894054,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 522.5814323820025,
+            "price_per_month": 15677.442973156762,
+            "coins_per_day": 86.24041946,
+            "coins_per_month": 2587.21258408
         },
         {
-            "symbol": "WAVES",
-            "network": "WAVES",
-            "token_standard": null,
             "name": "Waves",
-            "regex": "^(3P)[0-9A-Za-z]{33}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/WAVES.png",
+            "symbol": "WAVES",
+            "price": 4188.652942624967,
             "chains": [
                 {
                     "name": "Waves",
@@ -1508,21 +1410,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.20055376,
-                "per_month": 6.01661287,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.6091791644834,
+            "price_per_month": 15708.27612889203,
+            "coins_per_day": 0.12500658,
+            "coins_per_month": 3.75019758
         },
         {
-            "symbol": "WBTC",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "Wrapped Bitcoin",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/WBTC.png",
+            "symbol": "WBTC",
+            "price": 3426691.7780994424,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -1533,21 +1430,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.00015448,
-                "per_month": 0.0046346,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 525.0034473226156,
+            "price_per_month": 15750.17195351403,
+            "coins_per_day": 0.00015321,
+            "coins_per_month": 0.00459632
         },
         {
-            "symbol": "WIN",
-            "network": "TRX",
-            "token_standard": "TRC20",
             "name": "WINk",
-            "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/WIN.png?20210406",
+            "symbol": "WIN",
+            "price": 0.02741996771431621,
             "chains": [
                 {
                     "name": "WINk",
@@ -1558,21 +1450,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 22256.117592,
-                "per_month": 667683.52777,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 524.3061312650073,
+            "price_per_month": 15729.183938388938,
+            "coins_per_day": 19121.325624,
+            "coins_per_month": 573639.768736
         },
         {
-            "symbol": "XLM",
-            "network": "XLM",
-            "token_standard": null,
             "name": "Stellar Lumens",
-            "regex": "^G[A-D]{1}[A-Z2-7]{54}$",
-            "regex_memo": "^[0-9A-Za-z]{1,28}$",
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/XLM.png",
+            "symbol": "XLM",
+            "price": 17.09868343455128,
             "chains": [
                 {
                     "name": "Stellar Lumens",
@@ -1583,21 +1470,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 31.6932598,
-                "per_month": 950.7977957,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.0536677824362,
+            "price_per_month": 15691.610069380322,
+            "coins_per_day": 30.590289,
+            "coins_per_month": 917.7086721
         },
         {
-            "symbol": "XMR",
-            "network": "XMR",
-            "token_standard": null,
             "name": "Monero",
-            "regex": "^[48][a-zA-Z|\\d]{94}([a-zA-Z|\\d]{11})?$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/XMR.png",
+            "symbol": "XMR",
+            "price": 16465.156015247536,
             "chains": [
                 {
                     "name": "Monero",
@@ -1608,21 +1490,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.03359733,
-                "per_month": 1.00792017,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 521.8713524812783,
+            "price_per_month": 15656.14205630239,
+            "coins_per_day": 0.0316955,
+            "coins_per_month": 0.95086509
         },
         {
-            "symbol": "XRP",
-            "network": "XRP",
-            "token_standard": null,
             "name": "Ripple",
-            "regex": "^r[1-9A-HJ-NP-Za-km-z]{25,34}$",
-            "regex_memo": "^((?!0)[0-9]{1,19})$",
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/XRP.png",
+            "symbol": "XRP",
+            "price": 61.959265927223505,
             "chains": [
                 {
                     "name": "Ripple",
@@ -1633,21 +1510,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 7.858766,
-                "per_month": 235.762997,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 523.6880181585273,
+            "price_per_month": 15710.640792592883,
+            "coins_per_day": 8.452134,
+            "coins_per_month": 253.564024
         },
         {
-            "symbol": "XTZ",
-            "network": "XTZ",
-            "token_standard": null,
             "name": "Tezos",
-            "regex": "^(tz[1,2,3]|KT1)[a-zA-Z0-9]{33}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/XTZ.png",
+            "symbol": "XTZ",
+            "price": 278.8536814369919,
             "chains": [
                 {
                     "name": "Tezos",
@@ -1658,21 +1530,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 1.98108298,
-                "per_month": 59.4324896,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 522.9210242094073,
+            "price_per_month": 15687.630762533196,
+            "coins_per_day": 1.87525236,
+            "coins_per_month": 56.25757093
         },
         {
-            "symbol": "XVG",
-            "network": "XVG",
-            "token_standard": null,
             "name": "Verge",
-            "regex": "^(D)[A-Za-z0-9]{33}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/XVG.png",
+            "symbol": "XVG",
+            "price": 1.004645620883526,
             "chains": [
                 {
                     "name": "Verge",
@@ -1683,21 +1550,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 643.10906459,
-                "per_month": 19293.27193785,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 511.1822525927334,
+            "price_per_month": 15335.467578053258,
+            "coins_per_day": 508.81847486,
+            "coins_per_month": 15264.55424607
         },
         {
-            "symbol": "YFI",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "Yearn.finance",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/YFI.png",
+            "symbol": "YFI",
+            "price": 1708428.7996882603,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -1708,21 +1570,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.00032261,
-                "per_month": 0.00967844,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 522.6937912646232,
+            "price_per_month": 15680.91624366668,
+            "coins_per_day": 0.00030595,
+            "coins_per_month": 0.00917856
         },
         {
-            "symbol": "ZEC",
-            "network": "ZEC",
-            "token_standard": null,
             "name": "Zcash",
-            "regex": "^(t)[A-Za-z0-9]{34}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/ZEC.png",
+            "symbol": "ZEC",
+            "price": 13347.097676835168,
             "chains": [
                 {
                     "name": "Zcash",
@@ -1733,21 +1590,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 0.03719184,
-                "per_month": 1.11575548,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 522.9400878042626,
+            "price_per_month": 15688.205570489363,
+            "coins_per_day": 0.03918006,
+            "coins_per_month": 1.17540202
         },
         {
-            "symbol": "ZIL",
-            "network": "ZIL",
-            "token_standard": null,
             "name": "Zilliqa",
-            "regex": "zil1[qpzry9x8gf2tvdw0s3jn54khce6mua7l]{38}",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/ZIL.png",
+            "symbol": "ZIL",
+            "price": 15.287300440739156,
             "chains": [
                 {
                     "name": "Zilliqa",
@@ -1758,21 +1610,16 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 144.24876215,
-                "per_month": 4327.46286456,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 526.7580741447898,
+            "price_per_month": 15802.742224802314,
+            "coins_per_day": 34.45723306,
+            "coins_per_month": 1033.71699183
         },
         {
-            "symbol": "ZRX",
-            "network": "ETH",
-            "token_standard": "ERC20",
             "name": "0x",
-            "regex": "^(0x)[0-9A-Fa-f]{40}$",
-            "regex_memo": null,
-            "top": 0,
-            "logo": "https://www.unmineable.com/img/logos/ZRX.png",
+            "symbol": "ZRX",
+            "price": 60.9731847219737,
             "chains": [
                 {
                     "name": "Ethereum",
@@ -1783,11 +1630,11 @@
                     "is_default": true
                 }
             ],
-            "reward": {
-                "per_day": 11.56282826,
-                "per_month": 346.88484784,
-                "algo": "ethash"
-            }
+            "currency": "INR",
+            "price_per_day": 518.4381049966292,
+            "price_per_month": 15553.143160264317,
+            "coins_per_day": 8.50272308,
+            "coins_per_month": 255.08169257
         }
     ]
 }
